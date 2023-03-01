@@ -1,0 +1,21 @@
+Light Intensity Meter
+*******************
+
+IoT ESP8266 NodeMCU Lux Meter using LDR & Blynk
+================================================
+https://www.geekering.com/categories/embedded-sytems/esp8266/ricardocarreira/esp8266-nodemcu-simple-ldr-luximeter/
+
+IoT ESP8266 NodeMCU Lux Meter using BH1750 Light Sensor & Blynk
+================================================================
+https://how2electronics.com/iot-esp8266-lux-meter-using-bh1750-light-sensor-blynk/
+
+Arduino LUX Meter Using BH1750 and OLED Display
+===============================================
+https://www.dofbot.com/post/lux-meter-using-bh1750-and-oled-display
+
+Zain Ali Research
+==================
+https://how2electronics.com/iot-esp8266-lux-meter-using-bh1750-light-sensor-blynk/
+
+http://www.esp8266learning.com/opt3001-digital-ambient-light-sensor-and-esp8266-example.php
+
